@@ -1,0 +1,3 @@
+# SmartThingsOther
+
+Some things
